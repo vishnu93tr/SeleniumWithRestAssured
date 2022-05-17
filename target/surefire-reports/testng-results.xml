@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-17T15:09:53 IST" name="Ecommerce Automation" finished-at="2022-05-17T15:10:19 IST" duration-ms="25386">
+  <suite started-at="2022-05-17T16:36:53 IST" name="Ecommerce Automation" finished-at="2022-05-17T16:37:21 IST" duration-ms="28148">
     <groups>
     </groups>
-    <test started-at="2022-05-17T15:09:53 IST" name="End To End Tests" finished-at="2022-05-17T15:10:19 IST" duration-ms="25386">
+    <test started-at="2022-05-17T16:36:53 IST" name="End To End Tests" finished-at="2022-05-17T16:37:21 IST" duration-ms="28148">
       <class name="org.selenium.pom.tests.CouponsTest">
-        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a]" started-at="2022-05-17T15:09:53 IST" name="startDriver" finished-at="2022-05-17T15:09:59 IST" duration-ms="5273" status="PASS">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435]" started-at="2022-05-17T16:36:53 IST" name="startDriver" finished-at="2022-05-17T16:37:01 IST" duration-ms="7537" status="PASS">
           <params>
             <param index="0">
               <value is-null="true"/>
@@ -16,7 +16,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startDriver -->
-        <test-method signature="guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a]" started-at="2022-05-17T15:09:59 IST" name="guestCheckoutUsingCoupons" description="Check Guest checkout Using Coupons" data-provider="getCoupons" finished-at="2022-05-17T15:10:06 IST" duration-ms="6753" status="PASS">
+        <test-method signature="guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435]" started-at="2022-05-17T16:37:01 IST" name="guestCheckoutUsingCoupons" description="Check Guest checkout Using Coupons" data-provider="getCoupons" finished-at="2022-05-17T16:37:08 IST" duration-ms="7456" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,11 +27,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- guestCheckoutUsingCoupons -->
-        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult, java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a]" started-at="2022-05-17T15:10:06 IST" name="quitDriver" finished-at="2022-05-17T15:10:06 IST" duration-ms="264" status="PASS">
+        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult, java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435]" started-at="2022-05-17T16:37:08 IST" name="quitDriver" finished-at="2022-05-17T16:37:08 IST" duration-ms="215" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=guestCheckoutUsingCoupons status=SUCCESS method=CouponsTest.guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a] output={null}]]]>
+                <![CDATA[[TestResult name=guestCheckoutUsingCoupons status=SUCCESS method=CouponsTest.guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435] output={null}]]]>
               </value>
             </param>
             <param index="1">
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
-        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a]" started-at="2022-05-17T15:10:06 IST" name="startDriver" finished-at="2022-05-17T15:10:08 IST" duration-ms="2148" status="PASS">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435]" started-at="2022-05-17T16:37:08 IST" name="startDriver" finished-at="2022-05-17T16:37:11 IST" duration-ms="2430" status="PASS">
           <params>
             <param index="0">
               <value is-null="true"/>
@@ -52,7 +52,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startDriver -->
-        <test-method signature="guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a]" started-at="2022-05-17T15:10:08 IST" name="guestCheckoutUsingCoupons" description="Check Guest checkout Using Coupons" data-provider="getCoupons" finished-at="2022-05-17T15:10:12 IST" duration-ms="4044" status="PASS">
+        <test-method signature="guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435]" started-at="2022-05-17T16:37:11 IST" name="guestCheckoutUsingCoupons" description="Check Guest checkout Using Coupons" data-provider="getCoupons" finished-at="2022-05-17T16:37:15 IST" duration-ms="4294" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -63,11 +63,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- guestCheckoutUsingCoupons -->
-        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult, java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a]" started-at="2022-05-17T15:10:12 IST" name="quitDriver" finished-at="2022-05-17T15:10:12 IST" duration-ms="228" status="PASS">
+        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult, java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435]" started-at="2022-05-17T16:37:15 IST" name="quitDriver" finished-at="2022-05-17T16:37:15 IST" duration-ms="212" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=guestCheckoutUsingCoupons status=SUCCESS method=CouponsTest.guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a] output={null}]]]>
+                <![CDATA[[TestResult name=guestCheckoutUsingCoupons status=SUCCESS method=CouponsTest.guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435] output={null}]]]>
               </value>
             </param>
             <param index="1">
@@ -79,7 +79,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
-        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a]" started-at="2022-05-17T15:10:12 IST" name="startDriver" finished-at="2022-05-17T15:10:14 IST" duration-ms="2052" status="PASS">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435]" started-at="2022-05-17T16:37:15 IST" name="startDriver" finished-at="2022-05-17T16:37:17 IST" duration-ms="2064" status="PASS">
           <params>
             <param index="0">
               <value is-null="true"/>
@@ -88,7 +88,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startDriver -->
-        <test-method signature="guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a]" started-at="2022-05-17T15:10:14 IST" name="guestCheckoutUsingCoupons" description="Check Guest checkout Using Coupons" data-provider="getCoupons" finished-at="2022-05-17T15:10:18 IST" duration-ms="4155" status="PASS">
+        <test-method signature="guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435]" started-at="2022-05-17T16:37:17 IST" name="guestCheckoutUsingCoupons" description="Check Guest checkout Using Coupons" data-provider="getCoupons" finished-at="2022-05-17T16:37:21 IST" duration-ms="3482" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,11 +99,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- guestCheckoutUsingCoupons -->
-        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult, java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a]" started-at="2022-05-17T15:10:18 IST" name="quitDriver" finished-at="2022-05-17T15:10:19 IST" duration-ms="215" status="PASS">
+        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult, java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435]" started-at="2022-05-17T16:37:21 IST" name="quitDriver" finished-at="2022-05-17T16:37:21 IST" duration-ms="176" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=guestCheckoutUsingCoupons status=SUCCESS method=CouponsTest.guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@6ea94d6a] output={null}]]]>
+                <![CDATA[[TestResult name=guestCheckoutUsingCoupons status=SUCCESS method=CouponsTest.guestCheckoutUsingCoupons(java.lang.String)[pri:0, instance:org.selenium.pom.tests.CouponsTest@4d7e7435] output={null}]]]>
               </value>
             </param>
             <param index="1">

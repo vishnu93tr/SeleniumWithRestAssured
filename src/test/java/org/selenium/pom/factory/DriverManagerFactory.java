@@ -5,15 +5,13 @@ import org.selenium.pom.constants.BrowserType;
 public class DriverManagerFactory {
     public static DriverManager getManager(BrowserType browserType){
         switch (browserType){
-            case CHROME -> {
+            case CHROME:
                 return new ChromeDriverManager();
-            }
-            case FIREFOX -> {
+            case FIREFOX:
                 return new FireFoxDriverManager();
-            }
-            default -> {
+            default:
                 throw new IllegalArgumentException("Unexpected Value"+browserType);
-            }
         }
+
     }
 }

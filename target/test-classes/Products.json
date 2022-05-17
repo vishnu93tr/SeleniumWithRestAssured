@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1215,
+    "name": "Blue Shoes",
+    "isFeatured": true,
+    "inStore": true
+  },
+  {
+    "id": 1209,
+    "name": "Denim Blue Jeans",
+    "isFeatured": true,
+    "inStore": false
+  },
+  {
+    "id": 1205,
+    "name": "Basic Blue Jeans",
+    "isFeatured": true,
+    "inStore": true
+  },
+  {
+    "id": 1198,
+    "name": "Anchor Bracelet",
+    "isFeatured": true,
+    "inStore": true
+  },
+  {
+    "id": 1196,
+    "name": "Blue Tshirt",
+    "isFeatured": true,
+    "inStore": true
+  }
+]

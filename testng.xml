@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Ecommerce Automation" verbose="1">
+    <test name="End To End Tests">
+        <parameter name="browser" value="chrome"></parameter>
+       <classes>
+           <class name="org.selenium.pom.tests.CouponsTest"/>
+       </classes>
+    </test>
+</suite>

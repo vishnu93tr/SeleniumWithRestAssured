@@ -1,0 +1,22 @@
+[
+{
+  "firstName": "vishnu",
+  "lastName": "vardhan",
+  "country": "India",
+  "billingAddress": "231,koramangala",
+  "billingCity": "Banglore",
+  "state": "Karnataka",
+  "billingPincode": "560034",
+  "billingEmail": "xyz@abc.com"
+},
+  {
+    "firstName": "vishnu",
+    "lastName": "vardhan",
+    "country": "United States (US)",
+    "billingAddress": "231,koramangala",
+    "billingCity": "California",
+    "state": "California",
+    "billingPincode": "96162",
+    "billingEmail": "xyz@gmail.com"
+  }
+]

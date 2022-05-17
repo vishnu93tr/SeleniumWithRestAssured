@@ -3,8 +3,8 @@
 <suite name="Ecommerce Automation" verbose="1">
     <test name="End To End Tests">
         <parameter name="browser" value="chrome"></parameter>
-       <classes>
-           <class name="org.selenium.pom.tests.CouponsTest"/>
-       </classes>
+        <packages>
+            <package name="org.selenium.pom.tests"/>
+        </packages>
     </test>
 </suite>
